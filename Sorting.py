@@ -5,7 +5,7 @@ print(sorted(arr))
 
 
 # for decending:
-print (sorted(arr, reverse = 'true'))
+print (sorted(arr, reverse = 'true')) # --> reverse order 
 
 
 # List Slicing:
